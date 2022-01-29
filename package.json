@@ -1,0 +1,23 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiuYuan0214/practice-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiuYuan0214/practice-nodejs/issues"
+  },
+  "homepage": "https://github.com/ChiuYuan0214/practice-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
